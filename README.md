@@ -28,7 +28,7 @@
 `React` `ReactJS` `Node.js` `Express.js` `Bootstrap` `Tailwind CSS`
 
 **Tools & Services**  
-`FontAwesome` `Postman` `Docker` `FastAPI` `REST API` `VSCode`
+`FontAwesome` `Postman` `Docker` `REST API` `VSCode`
 
 ---
 
